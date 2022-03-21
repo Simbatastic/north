@@ -1,8 +1,7 @@
 {
 "name":"#4 Nordic Pool",
-"description":"Official SundaeSwap ISO Pool. When the ISO starts, all Nordic Pools will generate Sundae Tokens PLUS your regular ADA Rewards. For questions and updates on the ISO, join our telegram Group",
+"description":"Your trusted stake pool operator, established at main-net launch. Official SundaeSwap Scooper. Stay updated, request support, and hang out with our great community at the NORTH Telegram group.",
 "ticker":"NORTH",
 "homepage":"https://nordicpool.org",
-"nonce":"1596738555",
-"extended":"https://nordicpool.org/json/eastextended.json"
+"extended":"https://bit.ly/east_extended"
 }
