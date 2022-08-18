@@ -1,1 +1,7 @@
-
+{
+  "name": "NORTH",
+  "ticker": "NORTH",
+  "description": "Testpool no.1",
+  "homepage": "https://nordicpool.org",
+  "nonce": "1660845619"
+}
