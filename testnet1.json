@@ -1,7 +1,8 @@
 {
-  "name": "NORTH",
+  "name": "Nordic Pool #1",
   "ticker": "NORTH",
-  "description": "Testpool no.1",
+  "description": "Testnet Pool no1",
   "homepage": "https://nordicpool.org",
-  "nonce": "1660845619"
+  "nonce": "1661023905",
+  "extended": "https://bit.ly/left_extended"
 }
