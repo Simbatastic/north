@@ -1,1 +1,8 @@
-
+{
+  "name": "Nordic Pool",
+  "ticker": "NORTH",
+  "description": "Testnet Pool no4",
+  "homepage": "https://nordicpool.org",
+  "nonce": "1661021353",
+  "extended": "https://github.com/Simbatastic/north/blob/main/leftextended.json"
+}
