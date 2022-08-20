@@ -1,1 +1,8 @@
-
+{
+  "name": "Nordic Pool",
+  "ticker": "NORTH",
+  "description": "Testnet Pool no3",
+  "homepage": "https://nordicpool.org",
+  "nonce": "1661021653",
+  "extended": "https://bit.ly/left_extended"
+}
